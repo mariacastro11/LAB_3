@@ -1,0 +1,103 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#Fondo {
+    height: 100vh; 
+    width: 100vw; 
+    background-image: url(/Login2/images/gradient-background-wcbhaxmv9pk2sncp.webp);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#loginContainer {
+    width: 60%;
+    height: 70%;
+    background-color: aliceblue;
+    display: flex;
+
+
+}
+
+#derecha {
+    width: 70%;
+    height: 100%;
+    background-image: url(/Login2/images/representacion-3d-miniatura-isometrica-ciudad-nueva-york_23-2150598135.jpg);
+    background-size: cover;
+
+}
+
+#izquierda {
+    height: 100%;
+    width: 30%;
+    padding-top: 2rem;
+    position: relative;
+}
+#iconoTitulo{
+    height: 35px;
+}
+#contenedorTitulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+    font-size: 12px;
+}
+
+#icono{
+    height: 80px;
+}
+#contenedorIcono{
+   font-size: 14px;
+   margin-top: 1.5rem;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: .3rem;
+}
+form{
+    display: flex;
+    margin-top: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: .5rem;
+}
+#botonContenedor{
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+#botonContenedor p {
+    font-size: 13px;
+}
+
+input {
+padding: .3rem 1rem;
+}
+button{
+    padding: .3rem .5rem;
+    border-radius: 10px;
+    border: none;
+    background-color: rgb(79, 180, 182);
+    color: white;
+}
+.index2{
+    height: 100px;
+    position: absolute;
+}
+#regla{
+    left: 100px;
+    top: 470px;
+}
+#calculadora{
+    top: 470px;
+    left: 20px;
+}
