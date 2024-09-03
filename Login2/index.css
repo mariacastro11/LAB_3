@@ -8,7 +8,7 @@
 #Fondo {
     height: 100vh; 
     width: 100vw; 
-    background-image: url(/Login2/images/gradient-background-wcbhaxmv9pk2sncp.webp);
+    background-image: url(./images/gradient-background-wcbhaxmv9pk2sncp.webp);
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -27,7 +27,7 @@
 #derecha {
     width: 70%;
     height: 100%;
-    background-image: url(/Login2/images/representacion-3d-miniatura-isometrica-ciudad-nueva-york_23-2150598135.jpg);
+    background-image: url(./images/representacion-3d-miniatura-isometrica-ciudad-nueva-york_23-2150598135.jpg);
     background-size: cover;
 
 }
